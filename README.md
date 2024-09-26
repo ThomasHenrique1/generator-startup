@@ -26,6 +26,12 @@ Este projeto é uma aplicação web simples que utiliza APIs para gerar ideias i
 - `README.md`             # Documentação do projeto
 - `requirements.txt`      # Lista de dependências do projeto
 
+
+## Vídeo Explicativo
+
+[![Assista ao vídeo explicativo](https://img.youtube.com/vi/3aT5NSTXhmQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=3aT5NSTXhmQ)
+
+
 ## Requisitos
 
 - Python 3.x
