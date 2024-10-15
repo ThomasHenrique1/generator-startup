@@ -29,7 +29,7 @@ Este projeto é uma aplicação web simples que utiliza APIs para gerar ideias i
 
 ## Vídeo Explicativo
 
-[![Assista ao vídeo explicativo](https://img.youtube.com/vi/3aT5NSTXhmQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=3aT5NSTXhmQ)
+[![Assista ao vídeo explicativo](https://img.youtube.com/vi/Dfsghuq31vI/maxresdefault.jpg)](https://youtu.be/Dfsghuq31vI)
 
 
 ## Requisitos
